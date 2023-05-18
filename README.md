@@ -4,5 +4,4 @@ folderProjectAndroidStudio\app\
 biar nanti bisa kebaca sama Android Studionya, thanks :3
 
 Contoh:
-C:\Users\mycomp\ORented\app\
-<nanti harusnya src dan seterusnya ada di sini>
+C:\Users\mycomp\ORented\app\[nanti harusnya src dan seterusnya ada di sini]
